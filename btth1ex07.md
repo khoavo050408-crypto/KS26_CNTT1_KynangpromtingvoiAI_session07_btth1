@@ -76,7 +76,7 @@ Trình bày đủ 4 phần, đúng thứ tự sau:
 
 ---
 
-## 3. Ví dụ vận hành mẫu
+## 3. Ví dụ vận hành mẫu (nguồn ví dụ AI tạo ra dòng code và tự em add vào AI khác để chạy thử nghiệm và test kết quả)
 
 ### Đầu vào từ học viên
 
